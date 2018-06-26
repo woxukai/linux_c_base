@@ -1,0 +1,3 @@
+gcc thread_test.c -lpthread -o aaa
+
+gcc  -lpthread -o aaa thread_test.c
