@@ -52,7 +52,7 @@ A commercial use license is available from Genivia, Inc., contact@genivia.com
 --------------------------------------------------------------------------------
 */
 
-#define GSOAP_LIB_VERSION 20872
+#define GSOAP_LIB_VERSION 20860
 
 #ifdef AS400
 # pragma convert(819)   /* EBCDIC to ASCII */

@@ -2,6 +2,7 @@
 #include "calc.nsmap"                           /* 与add.h的第一行命名空间(ns)有关 */
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 int add (const char *server, int num1, int num2, int *sum);
 

@@ -36,10 +36,10 @@ extern "C" {
  *                                                                            *
 \******************************************************************************/
 
-struct ns__addResponse;	/* add.h:10 */
-struct ns__add;	/* add.h:10 */
+struct ns__addResponse;	/* add.h:9 */
+struct ns__add;	/* add.h:9 */
 
-/* add.h:10 */
+/* add.h:9 */
 #ifndef SOAP_TYPE_ns__addResponse
 #define SOAP_TYPE_ns__addResponse (9)
 /* complex XSD type 'ns:addResponse': */
@@ -49,7 +49,7 @@ struct ns__addResponse {
 };
 #endif
 
-/* add.h:10 */
+/* add.h:9 */
 #ifndef SOAP_TYPE_ns__add
 #define SOAP_TYPE_ns__add (10)
 /* complex XSD type 'ns:add': */
@@ -61,7 +61,7 @@ struct ns__add {
 };
 #endif
 
-/* add.h:11 */
+/* add.h:10 */
 #ifndef WITH_NOGLOBAL
 #ifndef SOAP_TYPE_SOAP_ENV__Header
 #define SOAP_TYPE_SOAP_ENV__Header (11)
@@ -74,7 +74,7 @@ struct SOAP_ENV__Header {
 #endif
 #endif
 
-/* add.h:11 */
+/* add.h:10 */
 #ifndef WITH_NOGLOBAL
 #ifndef SOAP_TYPE_SOAP_ENV__Code
 #define SOAP_TYPE_SOAP_ENV__Code (12)
@@ -89,7 +89,7 @@ struct SOAP_ENV__Code {
 #endif
 #endif
 
-/* add.h:11 */
+/* add.h:10 */
 #ifndef WITH_NOGLOBAL
 #ifndef SOAP_TYPE_SOAP_ENV__Detail
 #define SOAP_TYPE_SOAP_ENV__Detail (14)
@@ -104,7 +104,7 @@ struct SOAP_ENV__Detail {
 #endif
 #endif
 
-/* add.h:11 */
+/* add.h:10 */
 #ifndef WITH_NOGLOBAL
 #ifndef SOAP_TYPE_SOAP_ENV__Reason
 #define SOAP_TYPE_SOAP_ENV__Reason (17)
@@ -116,7 +116,7 @@ struct SOAP_ENV__Reason {
 #endif
 #endif
 
-/* add.h:11 */
+/* add.h:10 */
 #ifndef WITH_NOGLOBAL
 #ifndef SOAP_TYPE_SOAP_ENV__Fault
 #define SOAP_TYPE_SOAP_ENV__Fault (18)

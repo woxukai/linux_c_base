@@ -2,6 +2,7 @@
 #include "calc.nsmap"                           /* 与add.h的第一行命名空间(ns)有关 */
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 int
 main (int argc, char *argv[])
 {
